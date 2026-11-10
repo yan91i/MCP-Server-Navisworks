@@ -1,4 +1,4 @@
-The Navisworks MCP plugin has 73 tools, and has a feature that lists every tool with its description.
+The Navisworks MCP Server plugin has a expanded toolset with 73 tools, and has a feature that lists every tool with its description.
 The MCP is initially called with **Cherry**
 
 # Deployment
